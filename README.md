@@ -1,4 +1,4 @@
-# LL1-2-6-N2C
+# Liquid fraction of manure-LCA
 
 #This repository includes the supplementary information and the life cycle inventory for the LCA case study "In the quest for sustainable management of liquid fraction of manure"
 
